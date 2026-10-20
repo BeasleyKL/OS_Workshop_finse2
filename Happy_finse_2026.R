@@ -1,4 +1,4 @@
 # Happy Finse 2026
 
 
-usethis::use_github()
+usethis::use_readme_rmd()
